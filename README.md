@@ -317,17 +317,17 @@ This repository contains all our open source projects and there’s definitely m
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/ATREAY">
+            <img src="https://avatars.githubusercontent.com/u/66585295?v=4" width="100;" alt="ATREAY"/>
+            <br />
+            <sub><b>ATREAY</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hanspagel">
             <img src="https://avatars.githubusercontent.com/u/1577992?v=4" width="100;" alt="hanspagel"/>
             <br />
             <sub><b>hanspagel</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/tmastrom">
-            <img src="https://avatars.githubusercontent.com/u/36525329?v=4" width="100;" alt="tmastrom"/>
-            <br />
-            <sub><b>tmastrom</b></sub>
         </a>
     </td>
     <td align="center">
@@ -374,10 +374,10 @@ This repository contains all our open source projects and there’s definitely m
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ATREAY">
-            <img src="https://avatars.githubusercontent.com/u/66585295?v=4" width="100;" alt="ATREAY"/>
+        <a href="https://github.com/tmastrom">
+            <img src="https://avatars.githubusercontent.com/u/36525329?v=4" width="100;" alt="tmastrom"/>
             <br />
-            <sub><b>ATREAY</b></sub>
+            <sub><b>tmastrom</b></sub>
         </a>
     </td>
     <td align="center">
